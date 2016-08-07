@@ -1,0 +1,32 @@
+Return-Path: <�g>
+Received: from PC ([192.168.0.3])
+	by seg-v4 (8.14.7/8.14.7) with ESMTP id u3NEYNud030606
+	for <test@insider.com>; Sat, 23 Apr 2016 15:34:23 +0100
+Message-Id: <201604231434.u3NEYNud030606@seg-v4>
+MIME-Version: 1.0
+From: georg@external.com
+To: test@insider.com
+Date: 23 Apr 2016 15:34:25 +0100
+Subject: EICAR Test
+Content-Type: multipart/mixed;
+ boundary=--boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2
+x-msw-jemd-refid: 1,0,0,,d41d8cd98f00b204,georg@external.com,test@insider.com,RULES_HIT:41:379:871:988:989:1000:1135:1137:1140:1254:1313:1314:1381:1516:1518:1524:1536:1569:1575:1594:1711:1714:1730:1747:1764:1777:1792:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6506:6642:6747:7281:10004:10400:11658:12196:13439:21080,0,RBL:04yg3bfyq8b9hp5gkmdwh9z4yxhe7y-lbl8.mailshell.net-223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:64,LUA_SUMMARY:luares:0(NONE),phish:0(50),heur:0,mlist:0,htext:0;dkim:sn;newsl:no
+x-msw-jemd-lastmta: 192.168.0.3
+
+
+
+
+----boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+EICAR Test
+----boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2
+Content-Type: application/octet-stream; name=eicar.txt
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment
+
+DQpYNU8hUCVAQVBbNFxQWlg1NChQXik3Q0MpN30kRUlDQVItU1RBTkRBUkQtQU5USVZJ
+UlVTLVRFU1QtRklMRSEkSCtIKg==
+----boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2--
+

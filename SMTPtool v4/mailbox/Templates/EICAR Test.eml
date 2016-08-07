@@ -1,0 +1,23 @@
+MIME-Version: 1.0
+From: georg.felgitsch@clearswift.com
+To: georg.felgitsch@gmail.com
+Date: 23 Apr 2016 15:34:25 +0100
+Subject: EICAR Test
+Content-Type: multipart/mixed;
+ boundary=--boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2
+
+
+----boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+EICAR Test
+----boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2
+Content-Type: application/octet-stream; name=eicar.txt
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment
+
+DQpYNU8hUCVAQVBbNFxQWlg1NChQXik3Q0MpN30kRUlDQVItU1RBTkRBUkQtQU5USVZJ
+UlVTLVRFU1QtRklMRSEkSCtIKg==
+----boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2--
+
