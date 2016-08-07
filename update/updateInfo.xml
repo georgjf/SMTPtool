@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <upgrades>
-<currentVersion number="4.0" author="Georg Felgitsch" authorMail="georg.felgitsch@gmail.com" comment="You are using the latest Version" releaseDate="20/08/2016" updateURL="https://github.com/georgjf/SMTPtool" oldVerionsComment="available."/>
+<currentVersion version="4.0" author="Georg Felgitsch" authorMail="georg.felgitsch@gmail.com" comment="You are using the latest Version" releaseDate="20/08/2016" updateURL="https://github.com/georgjf/SMTPtool" oldVerionsComment="available."/>
 	<oldVersions>
-		<entry number="4.0" author="Georg Felgitsch" authorMail="georg.felgitsch@gmail.com" comment="You are using the latest Version" releaseDate="20/08/2016" updateURL="https://github.com/georgjf/SMTPtool"/>
-		<entry number="3.0" author="Georg Felgitsch" authorMail="georg.felgitsch@gmail.com" comment="Your version is outdated" releaseDate="20/08/2016" updateURL="https://github.com/georgjf/SMTPtool"/>
+		<entry version="3.0" author="Georg Felgitsch" authorMail="georg.felgitsch@gmail.com" comment="Your version is outdated" releaseDate="25/04/2016" updateURL="https://github.com/georgjf/SMTPtool"/>
+		<entry version="2.0" author="Georg Felgitsch" authorMail="georg.felgitsch@gmail.com" comment="Your version is outdated" releaseDate="12/01/2016" updateURL="https://github.com/georgjf/SMTPtool"/>
+		<entry version="1.0" author="Georg Felgitsch" authorMail="georg.felgitsch@gmail.com" comment="Your version is outdated" releaseDate="29/12/2015" updateURL="https://github.com/georgjf/SMTPtool"/>
 	</oldVersions>
 </upgrades>
