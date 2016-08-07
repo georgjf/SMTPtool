@@ -1,2 +1,2 @@
-# SMTPtool
+# SMTP Test Tool
 
