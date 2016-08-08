@@ -4,4 +4,4 @@
 #### <i class="icon-file"></i> Create a document
 
 
-For a detailed explanation of every tab visit the [StackEdit](https://github.com/georgjf/SMTPtool/wiki).
+For a detailed explanation of every tab visit the [wiki](https://github.com/georgjf/SMTPtool/wiki).
