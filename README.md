@@ -6,7 +6,7 @@
 
 For a detailed explanation of every tab visit the [wiki](https://github.com/georgjf/SMTPtool/wiki).
 
-Download the newest [version](https://github.com/georgjf/SMTPtool/blob/master/SMTPtool%20v4.zip). 
+Download the newest [version](https://raw.githubusercontent.com/georgjf/SMTPtool/master/SMTPtool%20v4.zip). 
 
 
 Requires .NET Framework 4
