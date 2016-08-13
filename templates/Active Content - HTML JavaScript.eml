@@ -1,0 +1,25 @@
+MIME-Version: 1.0
+From: external@external.com
+To: georg@insider.com
+Date: 13 Aug 2016 20:36:05 +0100
+Subject: HTMLwithJavaScript
+Content-Type: multipart/mixed;
+ boundary=--boundary_1_ae9b1f8f-b315-4db9-8df0-efca6b2ca546
+
+
+----boundary_1_ae9b1f8f-b315-4db9-8df0-efca6b2ca546
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+HTML file with JavaScrip attached
+----boundary_1_ae9b1f8f-b315-4db9-8df0-efca6b2ca546
+Content-Type: application/octet-stream; name=HTMLwithJavaScript.html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment
+
+PCFET0NUWVBFIGh0bWw+DQo8aHRtbD4NCjxib2R5Pg0KDQo8aDE+TXkgRmlyc3QgV2Vi
+IFBhZ2U8L2gxPg0KPHA+TXkgZmlyc3QgcGFyYWdyYXBoLjwvcD4NCg0KPHNjcmlwdD4N
+CndpbmRvdy5hbGVydCgiSmF2YVNjcmlwdCIpOw0KPC9zY3JpcHQ+DQoNCjwvYm9keT4N
+CjwvaHRtbD4NCg==
+----boundary_1_ae9b1f8f-b315-4db9-8df0-efca6b2ca546--
+

@@ -1,0 +1,22 @@
+MIME-Version: 1.0
+Subject: Encrypted Zip
+Content-Type: multipart/mixed;
+ boundary=--boundary_1_2241be7d-37ab-4c0c-9dd6-e8426ddd5b72
+
+
+----boundary_1_2241be7d-37ab-4c0c-9dd6-e8426ddd5b72
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Encrypted Zip file attached
+----boundary_1_2241be7d-37ab-4c0c-9dd6-e8426ddd5b72
+Content-Type: application/octet-stream; name=test.zip
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment
+
+UEsDBAoACQAAAIGiDUkAAAAADAAAAAAAAAAIAAAAdGVzdC50eHQuMrbV5FM7IlqdMGNQ
+SwcIAAAAAAwAAAAAAAAAUEsBAh8ACgAJAAAAgaINSQAAAAAMAAAAAAAAAAgAJAAAAAAA
+AAAgAAAAAAAAAHRlc3QudHh0CgAgAAAAAAABABgAN5EhsZf10QHuXCCxl/XRAe5cILGX
+9dEBUEsFBgAAAAABAAEAWgAAAEIAAAAAAA==
+----boundary_1_2241be7d-37ab-4c0c-9dd6-e8426ddd5b72--
+
