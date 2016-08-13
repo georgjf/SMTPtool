@@ -7,8 +7,9 @@
 For a detailed explanation of every tab have a look into the [wiki](https://github.com/georgjf/SMTPtool/wiki).
 
 Download the newest [version](https://raw.githubusercontent.com/georgjf/SMTPtool/master/SMTPtool%20v4.zip). 
+
 Instructions:
-Donwload the zip file and extract its content anywhere on your hard disk.
+Download the zip file and extract its content anywhere on your hard disk.
 
 
 Simple Mail Tab
