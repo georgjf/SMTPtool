@@ -17,9 +17,7 @@ For a detailed explanation of the tool have a look into the [wiki](https://githu
 Download the newest version [here](https://raw.githubusercontent.com/georgjf/SMTPtool/master/SMTPtool%20v4.zip). 
 
 
-[![Simple Mail Tab][2]][1] 
-
-[![Remail Tab][4]][3] 
+[![Simple Mail Tab][2]][1] [![Remail Tab][4]][3] 
 
 [![SMTP Session Tab][6]][5]
 
