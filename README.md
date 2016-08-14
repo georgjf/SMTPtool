@@ -15,10 +15,15 @@ For a detailed explanation of the tool have a look into the [wiki](https://githu
 Download the newest version [here](https://raw.githubusercontent.com/georgjf/SMTPtool/master/SMTPtool%20v4.zip). 
 
 
- [![alt text][1]][2]
+[![alt text][2]][1]
 
-  [1]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/smallSimpleMailTab.PNG
-  [2]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/simpleMailTab.PNG
+  [1]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/simpleMailTab.PNG
+  [2]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/smallSimpleMailTab.PNG
+
+ [![alt text][4]][3]
+
+  [3]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/smallSimpleMailTab.PNG
+  [4]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/simpleMailTab.PNG
   
 ##Instructions
 Download the zip file and extract its content anywhere on your hard disk.
