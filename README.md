@@ -10,10 +10,14 @@ Download the newest [version](https://raw.githubusercontent.com/georgjf/SMTPtool
 
 ##Instructions
 Download the zip file and extract its content anywhere on your hard disk.
-Open SMTPtestTool.exe
+
+To start simply open SMTPtestTool.exe
+
 
 ##Requirements
 .NET Framework 4
+
+
 
 Simple Mail Tab
 
