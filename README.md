@@ -1,5 +1,7 @@
 # SMTP Test Tool
 
+WORK IN PROGRESS
+
 A convenient Windows form-based tool to
 
 - create messages with attachments
