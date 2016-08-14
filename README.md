@@ -2,14 +2,14 @@
 
 A convenient Windows form-based tool to
 
-> test SMTP servers
-> create messages with attachments
-> send messages x
-> save sent messages
-> import .eml messages
-> edit .eml messagess
-> remail .eml message
-> test any mail server via a SMTP command line
+- test SMTP servers
+- create messages with attachments
+- send messages x
+- save sent messages
+- import .eml messages
+- edit .eml messagess
+- remail .eml message
+- test any mail server via a SMTP command line
 
 For a detailed explanation the tool have a look into the [wiki](https://github.com/georgjf/SMTPtool/wiki).
 
