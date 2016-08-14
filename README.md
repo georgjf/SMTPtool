@@ -14,9 +14,14 @@ test any mail server via a convenient SMTP command line
 
 > **Note:** You can find more information:
 
-> - about **Prettify** syntax highlighting [here][5],
-> - about **Highlight.js** syntax highlighting [here][6].
-
+> - test SMTP servers
+> - create messages with attachments
+> - send messages x
+> - save sent messages
+> - import .eml messages
+> - edit .eml messages
+> - remail .eml message
+> - test any mail server via a convenient SMTP command line
 
 Storing the last ten entries in the dropdown lists for server, from addresses, to addresses.
 
