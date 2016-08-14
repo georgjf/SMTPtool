@@ -14,6 +14,9 @@ For a detailed explanation of the tool have a look into the [wiki](https://githu
 
 Download the newest version [here](https://raw.githubusercontent.com/georgjf/SMTPtool/master/SMTPtool%20v4.zip). 
 
+![pic running](https://raw.githubusercontent.com/georgjf/SMTPtool/master/resources/simpleMailTab.PNG)
+
+
 ##Instructions
 Download the zip file and extract its content anywhere on your hard disk.
 
