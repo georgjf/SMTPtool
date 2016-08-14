@@ -20,6 +20,11 @@ Download the newest version [here](https://raw.githubusercontent.com/georgjf/SMT
   [1]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/simpleMailTab.PNG
   [2]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/smallSimpleMailTab.PNG
 
+ [![alt text][4]][3]
+
+  [3]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/smallSimpleMailTab.PNG
+  [4]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/simpleMailTab.PNG
+  
 ##Instructions
 Download the zip file and extract its content anywhere on your hard disk.
 
