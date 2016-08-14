@@ -1,27 +1,17 @@
 # SMTP Test Tool
 
+A convenient form-based tool to
 
-Form based tool to 
-test SMTP servers
-create messages with attachments
-send messages x
-save sent messages
-import .eml messages
-edit .eml messages
-remail .eml message
-test any mail server via a convenient SMTP command line
-
-
-> **Note:** You can find more information:
+> **Note:** A convenient form-based tool to
 
 > - test SMTP servers
 > - create messages with attachments
 > - send messages x
 > - save sent messages
 > - import .eml messages
-> - edit .eml messages
+> - edit .eml messagess
 > - remail .eml message
-> - test any mail server via a convenient SMTP command line
+> - test any mail server via a SMTP command line
 
 Storing the last ten entries in the dropdown lists for server, from addresses, to addresses.
 
