@@ -2,19 +2,15 @@
 
 A convenient Windows form-based tool to
 
-- test SMTP servers
 - create messages with attachments
-- send messages x
+- send a message multiple times in threads
 - save sent messages
-- import .eml messages
-- edit .eml messagess
-- remail .eml message
+- import your own messages
+- edit messagess
+- remail existing messages
 - test any mail server via a SMTP command line
 
-For a detailed explanation the tool have a look into the [wiki](https://github.com/georgjf/SMTPtool/wiki).
-
-Storing the last ten entries in the dropdown lists for server, from addresses, to addresses.
-
+For a detailed explanation of the tool have a look into the [wiki](https://github.com/georgjf/SMTPtool/wiki).
 
 Download the newest version [here](https://raw.githubusercontent.com/georgjf/SMTPtool/master/SMTPtool%20v4.zip). 
 
@@ -27,7 +23,7 @@ To start simply open `SMTPtestTool.exe`
 ##Requirements
 .NET Framework 4
 
-
+Due the the lack of free and easy tools to accomplish simple task like that 
 
 Simple Mail Tab
 
