@@ -22,7 +22,7 @@ Download the newest version [here](https://raw.githubusercontent.com/georgjf/SMT
   [3]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/remailTab.PNG
   [4]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/remailTab_small.PNG
   [5]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/sessionTab.PNG
-  [6]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/remailTab_small.PNG 
+  [6]: https://raw.githubusercontent.com/georgjf/SMTPtool/master/assets/sessionTab_small.PNG
   
 ##Instructions
 Download the zip file and extract its content anywhere on your hard disk.
