@@ -1,6 +1,6 @@
 # SMTP Test Tool
 
-A convenient form-based tool to
+A convenient Windows form-based tool to
 
 > - test SMTP servers
 > - create messages with attachments
@@ -35,3 +35,6 @@ Remail Tab
 
 SMTP Session Tab
 
+## License
+SMTP Test Tool is licensed under the MIT License  
+Copyright (c) 2015 - 2016 Georg Felgitsch ([@majodev](https://twitter.com/majodev))
