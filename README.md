@@ -37,4 +37,4 @@ SMTP Session Tab
 
 ## License
 SMTP Test Tool is licensed under the MIT License  
-Copyright (c) 2015 - 2016 Georg Felgitsch ([@majodev](https://twitter.com/majodev))
+Copyright (c) 2015 - 2016 Georg Felgitsch ([@georg.felgitsch](https://twitter.com/GeorgFelgitsch))
