@@ -10,11 +10,11 @@ A convenient Windows form-based tool to
 - remail existing messages
 - test any mail server via an SMTP command line
 
-For a detailed explanation of the tool have a look into the [wiki](https://github.com/georgjf/SMTPtool/wiki).  
+For a detailed explanation of the tool have a look into the **[wiki](https://github.com/georgjf/SMTPtool/wiki)**.  
 
 
 ##Installation
-Download the newest version [here](https://github.com/georgjf/SMTPtool/blob/master/bin/SMTPtool_v4/SMTPtestTool_v4.zip). 
+Download the newest version **[here](https://github.com/georgjf/SMTPtool/blob/master/bin/SMTPtool_v4/SMTPtestTool_v4.zip)**. 
 
 Extract it anywhere on your hard disk.
 
