@@ -3,7 +3,7 @@
 A convenient Windows form-based tool to
 
 - create messages with attachments
-- send a message multiple times in threads
+- send a message multiple times in different threads
 - save sent messages
 - import your own messages
 - edit messagess
@@ -13,7 +13,7 @@ A convenient Windows form-based tool to
 For a **detailed explanation** of the tool have a look into the **[wiki](https://github.com/georgjf/SMTPtool/wiki)**.  
 
 
-##Installation
+## Installation
 1. Download the newest version **[here](https://raw.githubusercontent.com/georgjf/SMTPtool/master/bin/SMTPtool_v4/SMTPtestTool_v4.zip)**. 
 
 2. Extract it anywhere on your hard disk.
@@ -21,15 +21,20 @@ For a **detailed explanation** of the tool have a look into the **[wiki](https:/
 3. To start simply open `SMTPtestTool.exe`
 
 
-##Preview
+## Preview
 
 [![Simple Mail Tab][2]][1] [![Remail Tab][4]][3] 
 
 [![SMTP Session Tab][6]][5]
 
 
-##Requirements
+## Requirements
 .NET Framework 4
+
+
+## Feedback
+
+If you encounter a bug or if you have an idea for a useful enhancement or additional feature just open up an [issue](https://github.com/georgjf/SMTPtool/issues).
 
 
 ## License
