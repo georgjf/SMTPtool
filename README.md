@@ -1,7 +1,5 @@
 # SMTP Test Tool
 
-WORK IN PROGRESS
-
 A convenient Windows form-based tool to
 
 - create messages with attachments
@@ -12,9 +10,14 @@ A convenient Windows form-based tool to
 - remail existing messages
 - test any mail server via an SMTP command line
 
+
+##Installation
 Download the newest version [here](https://raw.githubusercontent.com/georgjf/SMTPtool/master/SMTPtool%20v4.zip). 
 
-For a detailed explanation of the tool have a look into the [wiki](https://github.com/georgjf/SMTPtool/wiki).
+Extract it anywhere on your hard disk.
+
+To start simply open `SMTPtestTool.exe`
+
 
 ##Preview
 
@@ -22,11 +25,7 @@ For a detailed explanation of the tool have a look into the [wiki](https://githu
 
 [![SMTP Session Tab][6]][5]
 
-  
-##Instructions
-Download the zip file and extract its content anywhere on your hard disk.
-
-To start simply open `SMTPtestTool.exe`
+For a detailed explanation of the tool have a look into the [wiki](https://github.com/georgjf/SMTPtool/wiki).  
 
 
 ##Requirements
