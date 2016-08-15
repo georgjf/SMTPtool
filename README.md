@@ -14,7 +14,7 @@ For a **detailed explanation** of the tool have a look into the **[wiki](https:/
 
 
 ##Installation
-**Download** the newest version **[here](https://github.com/georgjf/SMTPtool/blob/master/bin/SMTPtool_v4/SMTPtestTool_v4.zip)**. 
+**Download** the newest version **[here](https://raw.githubusercontent.com/georgjf/SMTPtool/master/bin/SMTPtool_v4/SMTPtestTool_v4.zip**. 
 
 Extract it anywhere on your hard disk.
 
