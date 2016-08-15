@@ -12,9 +12,9 @@ A convenient Windows form-based tool to
 - remail existing messages
 - test any mail server via an SMTP command line
 
-For a detailed explanation of the tool have a look into the [wiki](https://github.com/georgjf/SMTPtool/wiki).
-
 Download the newest version [here](https://raw.githubusercontent.com/georgjf/SMTPtool/master/SMTPtool%20v4.zip). 
+
+For a detailed explanation of the tool have a look into the [wiki](https://github.com/georgjf/SMTPtool/wiki).
 
 ##Preview
 
@@ -32,13 +32,6 @@ To start simply open `SMTPtestTool.exe`
 ##Requirements
 .NET Framework 4
 
-Due the the lack of free and easy tools to accomplish simple task like that 
-
-Simple Mail Tab
-
-Remail Tab
-
-SMTP Session Tab
 
 ## License
 SMTP Test Tool is licensed under the MIT License  
