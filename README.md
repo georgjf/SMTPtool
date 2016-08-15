@@ -34,7 +34,7 @@ For a **detailed explanation** of the tool have a look into the **[wiki](https:/
 
 ## Feedback
 
-If you encounter a bug or if you have an idea for a useful enhancement or additional feature just open up an [issue](https://github.com/georgjf/SMTPtool/issues).
+If you encounter a bug or if you have an idea for a useful enhancement or additional feature (not matter if it's just a small detail or huge change) just open up an [issue](https://github.com/georgjf/SMTPtool/issues).
 
 
 ## License
