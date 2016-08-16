@@ -34,12 +34,12 @@ For a **detailed explanation** of the tool have a look into the **[wiki](https:/
 
 ## Feedback
 
-If you encounter a bug or if you have an idea for a useful enhancement or additional feature (not matter if it's just a small detail or huge change) just open up an [issue](https://github.com/georgjf/SMTPtool/issues).
+If you encounter a bug or if you have an idea for a useful enhancement or additional feature (not matter if it's just a small detail or huge change) just open up an **[issue](https://github.com/georgjf/SMTPtool/issues)**.
 I am more than happy about getting input or feedback of any kinds.
 
 The tool was tested with different versions of Sendmail, Postfix and Exchange. Let me know if you find an MTA which is not compatible.
 
-**[Here](https://github.com/georgjf/SMTPtool/wiki/Remail-Templates**) you can find a collection of some useful .eml templates. Tell me if you have an idea about any other templates which may be helpful for others as well.
+**[Here](https://github.com/georgjf/SMTPtool/wiki/Remail-Templates)** you can find a collection of some useful .eml templates. Tell me if you have an idea about any other templates which may be helpful for others as well.
 
 
 
