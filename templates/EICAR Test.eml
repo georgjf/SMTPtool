@@ -1,20 +1,23 @@
 MIME-Version: 1.0
-Subject: EICAR Test file attached
+From: georg@outsider.com
+To: georg@insider.com
+Date: 30 Oct 2016 12:29:47 +0000
+Subject: EICAR test file
 Content-Type: multipart/mixed;
- boundary=--boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2
+ boundary=--boundary_1_e125ef5d-33de-4c4d-a2bb-d6c3a86e7592
 
 
-----boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2
+----boundary_1_e125ef5d-33de-4c4d-a2bb-d6c3a86e7592
 Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: quoted-printable
 
-EICAR Test
-----boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2
-Content-Type: application/octet-stream; name=eicar.txt
+EICAR test file attached
+----boundary_1_e125ef5d-33de-4c4d-a2bb-d6c3a86e7592
+Content-Type: application/octet-stream; name=eicar.com.txt
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment
 
-DQpYNU8hUCVAQVBbNFxQWlg1NChQXik3Q0MpN30kRUlDQVItU1RBTkRBUkQtQU5USVZJ
-UlVTLVRFU1QtRklMRSEkSCtIKg==
-----boundary_0_178ecbbe-daf4-471d-ba71-62034dbb91f2--
+WDVPIVAlQEFQWzRcUFpYNTQoUF4pN0NDKTd9JEVJQ0FSLVNUQU5EQVJELUFOVElWSVJV
+Uy1URVNULUZJTEUhJEgrSCo=
+----boundary_1_e125ef5d-33de-4c4d-a2bb-d6c3a86e7592--
 
