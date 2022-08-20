@@ -1,0 +1,208 @@
+﻿
+
+
+
+GENERAL
+
+distribute the files within a folder (people dont get that they need the config file)
+tootips
+branding
+Debug Log
+http://stackoverflow.com/questions/7926577/writing-c-sharp-debug-output-to-txt-file
+http://stackoverflow.com/questions/2652460/how-to-get-the-name-of-the-current-method-from-code
+
+icon / symbol with no copyright
+
+Email Firewall bypass - zum email senden, obwohl port 25 gesperrt ist
+
+TLS Test
+TLS Connection
+SMIME
+PGP
+-> great free framework
+http://www.mimekit.net/#about
+
+
+persistent logging
+
+validate SPF / generate SPF Record
+generate DKIM TXT Record
+
+Notify Icon when a new email arrives
+context menu (close,..)
+
+IP Blacklist check
+
+SMTP receiver
+http://www.codeproject.com/Articles/456380/A-Csharp-SMTP-server-receiver
+
+
+DNS server
+https://github.com/kapetan/dns
+https://github.com/matteofabbri/netfluid.dns
+
+html editor
+http://nicedit.com/download.php
+http://stackoverflow.com/questions/12233538/c-sharp-winfom-htmleditor-wysiwyg
+
+
+I8in
+
+Unit Tests
+
+
+SIMPLE MAIL
+
+set MIME type of attachments correctly
+SMTP Log in color
+multiple recipients JULIE
+
+
+REMAIL
+
+drag and drop bei treeview icons
+drag and drop mail into certain treeview folder
+open folder & open email symbols in the treeview icons
+
+template list (z.B. active content, facebook spoof)
+
+dont completely rebuild the treeview but add items dynamically in position
+
+filewatcher auf directories ausweiten
+
+TreeView Drag&Drop
+http://www.codeproject.com/Articles/9391/Dragging-tree-nodes-in-C
+https://support.microsoft.com/de-de/kb/307968
+http://stackoverflow.com/questions/20915260/c-sharp-winforms-dragdrop-within-the-same-treeviewcontrol
+
+Free unlicensed Pop3 Client & MIME Analyzer
+Base64, Quoted Printabe
+http://hpop.sourceforge.net/
+
+cut message in addition to copy
+
+fail to process template
+
+
+SMTP SESSION
+
+run the telnet connection start in another thread so it doesnt block the telnet form when starting the connection
+save new server addresses also when clicking on SMTP connection not only when clicking on send
+put saved address also into telnet window dropdown
+
+persistent command history
+
+Klasse abstrahieren
+atm ist der Code doppelt vorhanden in SessionTab und SessionForm Klasse
+
+
+
+just a customer Marcelou and I are working with who asked
+sending over TLS
+would be a good start
+wäre es ev. eine Idee wenn man bei den templates statt einzelne Emails auszusuchen auch die option hätte mittels checkboxen auswählen kann ob  ein spam text / class1 file / einem encrypted file / einem macro / einem executable / PDF datei mit XMP Fehler für die message processing failure / und einem unknown binary in einem einzigen mail drin sein sollte?  
+Wenn man alle anklickt würde ein Mail mit allen optionen versendet werden, so könnte man die verschiedensten szenarien durch testen :)
+von Markus Madlener
+
+
+
+JK is also asking for PGP and/or SMIME
+
+
+
+http://resizeimage.net/
+40% used from original snipping tool window screenshot for _small versions
+
+
+
+GA Checklist:
+
+Update Wiki Photos
+Update Update XML
+Proofread email
+Remove QA2EML from Github version
+Add MD5
+Update Templates on Github
+
+Mail:
+
+Hi guys
+
+Took a while this time
+
+Attached to the email
+Shared Folder
+Github (QA conversion not included)
+
+Thanks for the continuous feedback :)
+
+Regards
+Georg
+
+
+
+Changelog:
+
+v5.0
+DRAG AND DROP INTO REMAIL DOESNT WORK ANYMORE
+mail is imported but the UI is not refreshed correctly
+file lock for attachments not released correctly!!
+
+
+- Added an encrypted PDF template - Request from partner
+- Fixed an error in the spam test string template - Thanks Tom
+- Fixed an error in the EICAR template - Thanks Nic
+- Fixed the remail log issue - If a message could not be sent, it is correctly logged now
+- Fixed a bug causing the program to crash when trying to add an attachment without having read permissions on the file - Thanks Stuart
+- Improved SMTP implementation in the Remail tab to make it compatible with a wider range of different MTAs - Request from Github
+- In the Remail tab you can now remail multiple message at once by selecting a folder and clicking Remail - Request from Max
+- Implemented v2 libaries of the QA to EML converter (drag&drop QAs into the Remail tab, not included in the public Github version) - Thanks Matt
+- Added button and prefilled textfield for EHLO command in SMTP Session tab
+
+
+v4.0
+
+- New feature: Remail 
+	Import existing .eml messages
+	Edit .eml messages
+	Remail .eml messages
+	I have already included a few templates (Active Content PDF, macro, EICAR, v4 Junk,..) which can also be found here (https://github.com/georgjf/SMTPtool/wiki/Remail-Templates)
+	If you create some useful templates, send them to me and I will include them in the list
+- Convert .qa to .eml 
+	Just drag&drop a .qa file into the Remail tab and it will be automatically converted
+	This is a Clearswift specific feature and it is therefore not mentioned anywhere in the official documentation
+- Option to save a sent message to the outbox to send it again 
+- Support for empty senders (in the Remail tab)
+- Moved SMTP console into a separate tab to better separate it from the other functions
+- RSET added to quick command buttons in SMTP session tab
+- Check online for new version at startup - user gets a notification if a new version is available
+- Minor usability improvements 
+- Improved exception handling
+- Wiki with manual created - https://github.com/georgjf/SMTPtool (have a look)
+
+Implemented Enhancement Requests
+- Multiselect of attachments to delete & delete all attachments at once - Thanks Julie
+- Drag&drop support for attachments and mails - Thanks Mickey
+- Added info about the timespan it takes for a message to be delivered - Thanks JFK
+
+v3.0
+
+- New feature: SMTP console connection
+- Multiple connections (separate connection per thread)
+- DropDown list for server, from and to fields persistently storing the last 10 values
+- Show filename instead of full path in attachment list
+- Improved exception handling
+
+
+v2.0
+
+- Persistent parameter
+- Ping server
+- Exception handling for wrong parameter
+- Loading feedback
+
+v1.0
+
+- Basic mail sending
+- Add/Remove attachments via single- or multiselect
+- Logging
